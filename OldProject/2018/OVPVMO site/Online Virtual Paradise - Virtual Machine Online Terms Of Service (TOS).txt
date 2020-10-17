@@ -1,0 +1,150 @@
+Online Virtual Paradise - Virtual Machine Online
+Terms of Service
+
+1. Copyright and paid content
+You are allowed to put in your own content that YOU paid for into your
+virtual machines. However, if you plan to make it public, you are going
+to have to get the machine state verified. Uploading pirated/cracked 
+content is illegal, and you will get your account terminated if you
+upload illegal content. Legal actions may be taken. It is the
+governments law, please make sure to respect others work. 
+Copyright content is allowed unless we get a warning from the company
+who owns it. Paid content can go by copyright content standards. Freeware
+and open source content is completely ok, but still has to be verified.
+If you want to get your machine public, but verification is taking too long
+or you don't want to wait, you can upload content from our software library.
+
+2. Security - Viruses, malware, and ransomware
+This is a big site, and with thousands of operating systems running at once,
+we have to make sure everyone is safe. Viruses can spread over the site, and
+corrupt other peoples machines, or destroy users computers. Therefore, we have
+a'security policy for malicious software.
+You can upload your own malware with windows 3.0 and below without any issues.
+However, with windows 3.1 and above, your machine will go offline, but your 
+account will not go offline if you upload malicious files. Your machine has to 
+get verified to run viruses. We have anti-viruses built-in, but they might not
+be 100% helpful. We are fine with destruction videos, but we have to take 
+pre-cautions. 
+However, to prevent long verification wait times, we have a malware library that
+can be accessed on your virtual machines at any times, even with windows 3.1 and
+above. 
+The rules are different with other operating systems
+For apple system 6 and above, the system will go offline when you upload files to
+wait for verification, but we also have virus libraries for apple too!
+The same goes for linux and unix, but is different for each distro. 
+Ubuntu: all versions go offline
+Fedora: all versions go offline
+Redhat: 1.4 and above go offline
+Solaris: all versions go offline
+Mint: all versions go offline
+Gentoo: all versions go offline
+Warp: warp 2 and above go offline
+Arch linux: all versions go offline
+Kubuntu: all versions go offline
+Android: all versions go offline
+Windows Mobile: all versions go offline
+iOS: all versions go offline
+Bodhi linux: all versions go offline
+Ubuntu MATE: all versions go offline
+Deepin: all versions go offline
+Mandriva Linux: all versions go offline
+Budgie: all versions go offline
+Sabayon Linux: all versions go offline
+CrunchBang Linux: all versions go offline
+Backbox: all versions go offline
+ReactOS: all versions go offline
+Red star OS: all versions go offline
+Pinguy OS: all versions go offline
+SolydXK: all versions go offline
+NixOS: all versions go offline
+Alpine Linux: all versions go offline
+Peppermint Linux OS: all versions go offline
+Ubuntu Kylin: all versions go offline
+Grml: all versions go offline
+Kanotix: all versions go offline
+Void Linux: all versions go offline
+Turnkey Linux Virtual Library: all versions go offline
+BasicLinux: all versions go offline
+Parsix: all versions go offline
+SuperGamer: all versions go offline
+Asturix: all versions go offline
+LliureX: all versions go offline
+aptosid: all versions go offline
+TinyXP: all versions go offline
+MicroXP: all versions go offline
+Windows XP Gold: all versions go offline
+Caldera OpenLinux: all versions go offline
+Lunar Linux: all versions go offline
+KateOS: all versions go offline
+AV Linux: all versions go offline
+VyOS: all versions go offline
+Russian Fedora Remix: all versions go offline
+Embedian Grip: all versions go offline
+WinLinux: all versions go offline
+DNALinux: all versions go offline
+HandyLinux: all versions go offline
+Sorcerer: all versions go offline
+Hikarunix: all versions go offline
+Gentoox: all versions go offline
+Yggdrasil Linux/GNU/X: all versions go offline
+LiMux: all versions go offline
+KaeilOS: all versions go offline
+Foresight Linux: all versions go offline
+Endian Firewall: all versions go offline
+Mac OS X: all versions go offline
+Windows NT: all versions go offline
+Windows Server: all versions go offline
+to simplify that, any OS capable of accessing the internet goes online to prevent
+malware and ransomware from spreading.
+
+3. Lifecycle and Legal 
+We are only allowed to put up operating systems we are legally allowed to use.
+For example, we can use ANY OS that ends all support, both mainstream and
+extended
+For example, if the site was launched in 2012, we couldn't use Windows XP, since
+it doesn't end support until April 8th 2014, but we could use windows 2000, since
+support ended on July 13th 2010
+This rule doesn't apply to open source operating systems like linux, since they
+don't cost money. However, even after something ends support, we have to wait
+a while to verify it and make sure our site can handle it
+
+4. Data
+this is a massive site, and requires a massive server. However, we also want
+to offer a great virtual experience. So, you can use up a lot of memory per account
+current memory limit: 1 PB
+as of the current year, we can offer up to 1 petabyte of memory for all your machines and 
+snapshots (1,000,000,000,000,000 bytes) (1,000,000,000,000 kilobytes)
+(1,000,000,000 megabytes) (1,000,000 gigabytes) (1,000 terabytes) 
+this is A LOT of memory for your machines, but try to be careful, we don't
+increase memory very often
+after you reach this limit, you have to pay 19.99 per 100 gigabytes, however,
+if the limit increases, and you still have free memory, you will get money back
+If you were to make only windows 1x, 2x, 2.1x, 3x, 3.1x, and 3.5x machines, you
+wouldn't have to worry, you would be able to take hundreds of thousands of snapshots
+before you have to reach into your virtual wallet to buy more memory
+however, be careful for newer systems
+Windows XP 64 bit machines take A LOT of memory per snapshot, up to 16 terabytes
+of memory (62.5) 
+creating too many full snapshots will fill up all your memory fast, and 100 gigabytes
+wouldn't support a single snapshot
+
+5. downloading
+you can download machines. That is one of the cool features. If you like a machine,
+you can download it as a .vhd .vmdk .iso .vdi .vhd .img .dmg .zip .7z .rar .tar .tgz
+however, be careful. If you are a site admin, you CANNOT download unverified machines.
+This can result in account suspension, and possible legal consequences if the machine
+contains copyrighted content
+
+6. Administration
+You can become a site admin, and help us verify machines. You will be rewarded for
+this, with XP on your account (not the OS) cash prizes, and more memory for your 
+account. You have to do the job right though. There is a multi-step process before
+we can release a machine state for verification. If you make an error, that is ok
+sometimes, mistakes happen. However, if you frequently overlook content that isn't
+allowed, you can get your administative permissions revoked, and earn account
+strikes.
+
+7. Setup
+
+
+
